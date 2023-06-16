@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.32.6](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-nestjs-core-v0.32.5...instrumentation-nestjs-core-v0.32.6) (2023-06-16)
+
+
+### Bug Fixes
+
+* **nestjs:** update dependency @nestjs/x to v9 ([#1538](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1538)) ([fec1799](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/fec17997d64349f00c1141ada9ae4bcbde3e5e89))
+
 ## [0.32.5](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-nestjs-core-v0.32.4...instrumentation-nestjs-core-v0.32.5) (2023-06-12)
 
 

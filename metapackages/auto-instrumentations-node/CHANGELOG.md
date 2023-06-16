@@ -87,6 +87,12 @@
     * @opentelemetry/instrumentation-koa bumped from ^0.34.2 to ^0.34.3
     * @opentelemetry/instrumentation-redis bumped from ^0.34.3 to ^0.34.4
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-nestjs-core bumped from ^0.32.5 to ^0.32.6
+
 ## [0.37.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.37.0...auto-instrumentations-node-v0.37.1) (2023-06-12)
 
 
